@@ -1,0 +1,13 @@
+Foodpanda is a food delivery marketplace parterned with more than 27000 restaurents all over the world. 
+But here are some new features that can help it to become more global:-
+
+
+1. SEO
+  Foodpanda is very popular and international but what if someone googles "food delivering   websites" and foodpanda didn't comes up. Search engine optimization helps website to become even more popular among different countries.
+
+
+2.Coverage area
+   Foodpanda doesn't deliver food in small cities. That can be new feature so that everyone can enjoy. It will also increase the customer rates and  profit for the company.
+
+3. Data Ingestion
+this helps to know their customer more.
