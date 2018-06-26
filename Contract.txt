@@ -1,0 +1,14 @@
+The objective is to provide data processing and computer consulting services to the client. Subcontractor is responsible to deliver every service required by client.
+Subcontractor provides employees to the client for whatever work client wants and must finish in deadline.
+
+Terms and Conditions
+
+1. Information Security.
+2. Upon signing the agreement, it is subcontactor's responsibility to make sure work starts on time at client side.
+3. Every module  and service should be approved by client.
+4. lient is not responsible for subcontractor's employees salary, benefits,etc. Subcontractor is responsible for every scenario related to employees.
+5. Insurance should be done beforehand. Subcontractor is not supposed to start without checking the insurance and if expired, must be renewed before commencing.
+6. The representations, warranties, covenants and indemnities provided herein shall survive the term of this Agreement.
+7. Subcontractor agrees that if it is held by any court of competent jurisdiction to be in violation, breach or non-performance of any of the terms of this Agreement, it shall pay all costs of such action or suit, including reasonable attorneys’ fees.
+
+
