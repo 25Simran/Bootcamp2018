@@ -1,0 +1,25 @@
+The Spring Web MVC framework provides Model-View-Controller architecture and ready components that can be used to develop flexible and loosely coupled web applications. The MVC 	separates different aspects of the application (input logic, business logic, and UI logic), while providing a loose coupling between these elements.
+
+Model- Encapsulates the application data which consists of POJO.
+View- Responsible for rendering the model data and in general it generates HTML output that the client's browser can interpret.
+Controller- Responsible for processing user requests and building an appropriate model and passes it to the view for rendering.
+
+
+Environment setup
+
+Step 1- Install JDK which are supported by your system.
+Step 2- Install latest version of apache common logging API which contains Jar files and other supporting documents.
+Step 3- Set up eclipse libraries.
+Step 4- Setup spring framework to run your first spring example.
+
+Dispatcher servlet
+
+The Spring Web model-view-controller (MVC) framework is designed around a DispatcherServlet that handles all the HTTP requests and responses.
+
+After receiving an HTTP request, DispatcherServlet consults the HandlerMapping to call the appropriate Controller.
+
+The Controller takes the request and calls the appropriate service methods based on used GET or POST method. The service method will set model data based on defined business logic and returns view name to the DispatcherServlet.
+
+The DispatcherServlet will take help from ViewResolver to pickup the defined view for the request.
+
+Once view is finalized, The DispatcherServlet passes the model data to the view which is finally rendered on the browser
